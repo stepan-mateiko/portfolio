@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.setItem("lang", lang);
   }
 
-  const savedLang = localStorage.getItem("lang") || "ua";
+  const savedLang = localStorage.getItem("lang") || "en";
   applyTranslations(savedLang);
 
   if (langToggle) {
