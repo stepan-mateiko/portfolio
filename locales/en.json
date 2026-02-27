@@ -1,5 +1,6 @@
 {
   "navAbout": "About Me",
+  "navExperience": "Experience",
   "navProjects": "Projects",
   "navSkills": "Skills",
   "navContact": "Contact",
@@ -19,6 +20,45 @@
   "aboutText1": "Frontend developer with <strong>commercial</strong> experience. I work in Epam since 2024.",
   "aboutText2": "Specialized in developing SPA applications with <strong>React</strong>. Experienced in hooks, Context API, responsive layout, SCSS, and API integration.",
   "aboutText3": "I’m detail-oriented, always learning, and open to new challenges and collaborations. <strong>Let’s build something great together!</strong>",
+
+  "experienceTitle": "My Experience",
+  "experienceIntro": "Projects delivered during my career at EPAM.",
+  "experience": {
+    "clientLabel": "Client:",
+    "projectLabel": "Project:",
+    "responsibilitiesTitle": "Responsibilities",
+    "toolsTitle": "Tools:",
+    "project1": {
+      "title": "Healthcare Platform",
+      "client": "Global oncology company pioneering electric field cancer therapies",
+      "project": "Optimized provider experience workflows to support patient care with time-sensitive HCP interactions.",
+      "resp1": "Implemented new functionality",
+      "resp2": "Performed bug fixing and refactoring",
+      "resp3": "Participated in estimations and sprint planning",
+      "resp4": "Ensured accessibility standards compliance",
+      "resp5": "Updated test coverage",
+      "tools": "TypeScript, ReactJS, Redux Toolkit, Redux, SCSS, Material UI, Jest, RTL, ESLint, Accessibility, Azure DevOps"
+    },
+    "project2": {
+      "title": "E-commerce Platform",
+      "client": "Global restaurant company operating well-known brands such as KFC, Pizza Hut, and Taco Bell.",
+      "project": "Enhanced e-commerce with Contentful CMS integration and mobile/web feature delivery for global markets.",
+      "resp1": "Maintained and improved website functionality",
+      "resp2": "Contributed to feature delivery and platform stability",
+      "resp3": "Participated in estimations and sprint planning",
+      "tools": "TypeScript, ReactJS, Redux Saga, Contentful, GraphQL, React Native, Material UI, Jest, ESLint, Yarn, GitHub"
+    },
+    "project3": {
+      "title": "Retail Platform",
+      "client": "Canadian retail company offering automotive, sports, home, and financial products.",
+      "project": "Modernization of legacy in-store systems into a cloud-compatible, service-oriented architecture.",
+      "resp1": "Developed user-friendly, responsive front-end interfaces",
+      "resp2": "Implemented new functionality",
+      "resp3": "Optimized performance and cross-browser compatibility",
+      "resp4": "Performed testing/debugging to maintain high quality",
+      "tools": "TypeScript, ReactJS, Redux, SCSS, Material UI, RTL, Jest, ESLint, Azure DevOps"
+    }
+  },
 
   "projectsTitle": "My Projects",
   "projectLink": "View",

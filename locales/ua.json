@@ -1,5 +1,6 @@
 {
   "navAbout": "Про мене",
+  "navExperience": "Досвід",
   "navProjects": "Проекти",
   "navSkills": "Навички",
   "navContact": "Контакти",
@@ -19,6 +20,45 @@
   "aboutText1": "Фронтенд-розробник з <strong>комерційним</strong> досвідом. Працюю в компанії Epam з 2024 року.",
   "aboutText2": "Спеціалізуюся на розробці SPA-додатків з використанням <strong>React</strong>. Маю досвід з хуками, Context API, адаптивною версткою, SCSS та інтеграцією API.",
   "aboutText3": "Я уважний до деталей, постійно навчаюся і відкритий до нових викликів та співпраці. <strong>Давайте створимо щось круте разом!</strong>",
+
+  "experienceTitle": "Мій досвід",
+  "experienceIntro": "Проєкти, які я над якими я працював під час роботи в EPAM.",
+  "experience": {
+    "clientLabel": "Клієнт:",
+    "projectLabel": "Проєкт:",
+    "responsibilitiesTitle": "Обов'язки",
+    "toolsTitle": "Технології:",
+    "project1": {
+      "title": "Healthcare Platform",
+      "client": "Глобальна онкологічна компанія, що розвиває терапії електричними полями",
+      "project": "Оптимізація взаємодії з лікарями для підтримки догляду за пацієнтами та роботи з критично важливою за часом інформацією.",
+      "resp1": "Реалізація нового функціоналу",
+      "resp2": "Виправлення багів та рефакторинг",
+      "resp3": "Участь в естімейтах та плануванні спринтів",
+      "resp4": "Забезпечення дотримання стандартів веб доступності",
+      "resp5": "Оновлення покриття тестами",
+      "tools": "TypeScript, ReactJS, Redux Toolkit, Redux, SCSS, Material UI, Jest, RTL, ESLint, Accessibility, Azure DevOps, SAP, MuleSoft"
+    },
+    "project2": {
+      "title": "E-commerce Platform",
+      "client": "Глобальна ресторанна компанія, що управляє такими відомими брендами, як KFC, Pizza Hut і Taco Bell.",
+      "project": "Розвиток e-commerce платформи з інтеграцією Contentful CMS та доставкою функціоналу для web/mobile на глобальні ринки.",
+      "resp1": "Підтримка та покращення функціональності сайту",
+      "resp2": "Участь у доставці нових фіч і стабілізації платформи",
+      "resp3": "Участь в естімейтах та плануванні спринтів",
+      "tools": "TypeScript, ReactJS, Redux Saga, Contentful, GraphQL, React Native, Material UI, Jest, ESLint, Yarn, GitHub"
+    },
+    "project3": {
+      "title": "Retail Platform",
+      "client": "Канадська роздрібна компанія, що пропонує товари для автомобілів, спорту, дому та фінансові продукти.",
+      "project": "Модернізація застарілих систем в магазинах до хмарної, орієнтованої на послуги архітектури.",
+      "resp1": "Розробка зручних та адаптивних Frontend-інтерфейси",
+      "resp2": "Реалізація нового функціоналу",
+      "resp3": "Оптимізація продуктивності і кросбраузерної сумісності",
+      "resp4": "Тестування та дебаг для забезпечення якості",
+      "tools": "TypeScript, ReactJS, Redux, SCSS, Material UI, RTL, Jest, ESLint, Azure DevOps, SAP, MuleSoft"
+    }
+  },
 
   "projectsTitle": "Мої проекти",
   "projectLink": "Переглянути",

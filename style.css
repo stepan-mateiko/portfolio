@@ -518,6 +518,88 @@ body.dark .about-bg-shape {
   opacity: 0.1;
 }
 
+/* EXPERIENCE */
+#experience {
+  padding: 60px 20px;
+}
+
+#experience-title {
+  font-size: 2.75rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: var(--text);
+  background: linear-gradient(90deg, var(--accent), var(--accent2));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.experience-intro {
+  max-width: 760px;
+  margin: 0 auto 2rem;
+  color: var(--text);
+  font-size: 1.05rem;
+}
+
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.experience-card {
+  background: var(--card-bg);
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 12px var(--shadow-light);
+  text-align: left;
+  transition:
+    box-shadow 0.35s ease,
+    transform 0.3s ease;
+}
+
+.experience-card:hover {
+  box-shadow: 0 20px 40px var(--shadow-light);
+  transform: translateY(-8px);
+}
+
+.experience-card-title {
+  font-size: 1.3rem;
+  color: var(--accent);
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.experience-meta {
+  margin-bottom: 12px;
+  color: var(--text);
+}
+
+.experience-meta strong {
+  color: var(--accent2);
+}
+
+.experience-subtitle {
+  margin: 10px 0 8px;
+  font-size: 1rem;
+  color: var(--text);
+  font-weight: 700;
+}
+
+.experience-list {
+  margin: 0 0 14px;
+  padding-left: 20px;
+  color: var(--text);
+}
+
+.experience-list li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
 /* PROJECTS */
 #projects {
   padding: 60px 20px;
@@ -873,6 +955,10 @@ body.dark .contact-icon {
   .projects {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .experience-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (max-width: 935px) {
@@ -881,6 +967,7 @@ body.dark .contact-icon {
   }
 
   .section h2,
+  #experience-title,
   #projects-title,
   .section-title,
   #contact h2 {
@@ -935,6 +1022,12 @@ body.dark .contact-icon {
   }
 
   .projects {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 16px;
+  }
+
+  .experience-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
     padding: 16px;
@@ -1008,6 +1101,7 @@ body.dark .contact-icon {
   }
 
   .section h2,
+  #experience-title,
   #projects-title,
   .section-title,
   #contact h2 {
@@ -1062,6 +1156,11 @@ body.dark .contact-icon {
   }
 
   .projects {
+    gap: 18px;
+    padding: 14px;
+  }
+
+  .experience-grid {
     gap: 18px;
     padding: 14px;
   }
@@ -1134,6 +1233,7 @@ body.dark .contact-icon {
   }
 
   .section h2,
+  #experience-title,
   #projects-title,
   .section-title,
   #contact h2 {
@@ -1197,6 +1297,12 @@ body.dark .contact-icon {
   }
 
   .projects {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 12px;
+  }
+
+  .experience-grid {
     grid-template-columns: 1fr;
     gap: 16px;
     padding: 12px;
