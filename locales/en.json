@@ -1,0 +1,45 @@
+{
+  "navAbout": "About Me",
+  "navProjects": "Projects",
+  "navSkills": "Skills",
+  "navContact": "Contact",
+  "navProjects1": "View projects",
+  "downloadResume": "Download CV",
+
+  "heroSubtitle": {
+    "part1": "I create",
+    "fast": "fast",
+    "easy": "user-friendly and scalable",
+    "apps": "web applications with",
+    "react": "React",
+    "goal": "I strive to build interfaces that are enjoyable to use."
+  },
+
+  "aboutTitle": "Hi, I'm Stepan. Nice to meet you!",
+  "aboutText1": "Frontend developer with <strong>commercial</strong> experience. I work in Epam since 2024.",
+  "aboutText2": "Specialized in developing SPA applications with <strong>React</strong>. Experienced in hooks, Context API, responsive layout, SCSS, and API integration.",
+  "aboutText3": "I’m detail-oriented, always learning, and open to new challenges and collaborations. <strong>Let’s build something great together!</strong>",
+
+  "projectsTitle": "My Projects",
+  "projectLink": "View",
+  "projectGithub": "Github",
+  "projectGithubBack": "Github Backend",
+  "project1Title": "Game of Thrones Quiz",
+  "project1Desc": "Interactive quiz application with timer, randomized logic, accessibility support, and responsive UI.",
+  "project2Title": "Marvel Universe",
+  "project2Desc": "Single-page application integrating with the Marvel Developer API (historical).Demonstrates routing, API integration, and dynamic data rendering.",
+  "project3Title": "Sigma Online Store",
+  "project3Desc": "Full-stack e-commerce application.",
+  "project4Title": "Learn App",
+  "project4Desc": "Full-stack role-based learning management system with authentication.",
+  "project5Title": "Movies App",
+  "project5Desc": "Role-based movie management platform with admin capabilities.",
+
+  "skillsTitle": "Skills",
+  "skillsBasics": "Basics",
+  "skillsFrameworks": "Frameworks & Libraries",
+  "skillsOther": "Other Technologies",
+  "contactTitle": "Contact",
+  "contactText": "Get in touch:",
+  "name": "© 2026 Stepan Mateiko"
+}
