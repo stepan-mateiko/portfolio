@@ -1,6 +1,6 @@
 {
   "navAbout": "Про мене",
-  "navExperience": "Досвід",
+  "navExperience": "Мій досвід",
   "navProjects": "Проекти",
   "navSkills": "Навички",
   "navContact": "Контакти",
@@ -8,12 +8,19 @@
   "downloadResume": "Завантажити резюме",
 
   "heroSubtitle": {
-    "part1": "Створюю",
-    "fast": "швидкі",
-    "easy": "зручні та масштабовані",
-    "apps": "вебзастосунки з",
+    "intro": "Динамічний та уважний до деталей",
+    "front-end": "Front-End розробник",
+    "withHandsOn": "з практичним досвідом створення",
+    "scalable": "масштабованих, доступних та візуально привабливих",
+    "webApps": "вебзастосунків.",
+    "skilledIn": "Володію",
     "react": "React",
-    "goal": "Прагну розробляти інтерфейси, якими приємно користуватись."
+    "typescript": "TypeScript",
+    "redux": "Redux",
+    "andModern": "та сучасним",
+    "javascript": "JavaScript",
+    "trackRecord": "з підтвердженим досвідом реалізації якісних рішень для глобальних клієнтів у",
+    "healthcare": "охороні здоров'я, ритейлі та e-commerce"
   },
 
   "aboutTitle": "Привіт, я Степан. Радий знайомству!",

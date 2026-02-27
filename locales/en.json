@@ -8,12 +8,19 @@
   "downloadResume": "Download CV",
 
   "heroSubtitle": {
-    "part1": "I create",
-    "fast": "fast",
-    "easy": "user-friendly and scalable",
-    "apps": "web applications with",
+    "intro": "Dynamic and detail-oriented",
+    "front-end": "Front-End Developer",
+    "withHandsOn": "with hands-on experience in building",
+    "scalable": "scalable, accessible, and visually engaging",
+    "webApps": "web applications.",
+    "skilledIn": "Skilled in",
     "react": "React",
-    "goal": "I strive to build interfaces that are enjoyable to use."
+    "typescript": "TypeScript",
+    "redux": "Redux",
+    "andModern": "and modern",
+    "javascript": "JavaScript",
+    "trackRecord": "with a proven track record of delivering high-quality solutions for global clients in",
+    "healthcare": "healthcare, retail, and e-commerce"
   },
 
   "aboutTitle": "Hi, I'm Stepan. Nice to meet you!",
@@ -22,7 +29,7 @@
   "aboutText3": "I’m detail-oriented, always learning, and open to new challenges and collaborations. <strong>Let’s build something great together!</strong>",
 
   "experienceTitle": "My Experience",
-  "experienceIntro": "Projects delivered during my career at EPAM.",
+  "experienceIntro": "Projects that I worked on during my career at EPAM.",
   "experience": {
     "clientLabel": "Client:",
     "projectLabel": "Project:",
