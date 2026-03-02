@@ -25,8 +25,13 @@
 
   "aboutTitle": "Привіт, я Степан. Радий знайомству!",
   "aboutText1": "Фронтенд-розробник з <strong>комерційним</strong> досвідом. Працюю в компанії Epam з 2024 року.",
-  "aboutText2": "Спеціалізуюся на розробці SPA-додатків з використанням <strong>React</strong>. Маю досвід з хуками, Context API, адаптивною версткою, SCSS та інтеграцією API.",
-  "aboutText3": "Я уважний до деталей, постійно навчаюся і відкритий до нових викликів та співпраці. <strong>Давайте створимо щось круте разом!</strong>",
+  "aboutText2": "Спеціалізуюся на React і TypeScript, сучасному керуванні станом, інтеграції API, оптимізації продуктивності та впровадженні accessibility-first UI.",
+  "aboutText3": "Мені подобається вирішувати складні продуктові задачі, працювати в кросфункціональних командах і постійно підвищувати якість коду. <strong>Давайте створимо щось круте разом!</strong>",
+  "aboutCoursesTitle": "Frontend курси:",
+  "aboutCourse1": "Beetroot Academy (IT Generation)",
+  "aboutCourse2": "Sigma Software JavaScript Camp",
+  "aboutCourse3": "Epam Front End Cross Regional Program",
+  "viewCertificate": "Переглянути сертифікат",
 
   "experienceTitle": "Мій досвід",
   "experienceIntro": "Проєкти, які я над якими я працював під час роботи в EPAM.",

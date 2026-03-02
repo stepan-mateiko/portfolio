@@ -25,8 +25,13 @@
 
   "aboutTitle": "Hi, I'm Stepan. Nice to meet you!",
   "aboutText1": "Frontend developer with <strong>commercial</strong> experience. I work in Epam since 2024.",
-  "aboutText2": "Specialized in developing SPA applications with <strong>React</strong>. Experienced in hooks, Context API, responsive layout, SCSS, and API integration.",
-  "aboutText3": "I’m detail-oriented, always learning, and open to new challenges and collaborations. <strong>Let’s build something great together!</strong>",
+  "aboutText2": "I specialize in React and TypeScript development, modern state management, API integration, performance optimization, and accessibility-first UI implementation.",
+  "aboutText3": "I enjoy solving complex product tasks, collaborating with cross-functional teams, and continuously improving code quality. <strong>Let's build something great together!</strong>",
+  "aboutCoursesTitle": "Frontend Courses:",
+  "aboutCourse1": "Beetroot Academy (IT Generation)",
+  "aboutCourse2": "Sigma Software JavaScript Camp",
+  "aboutCourse3": "Epam Front End Cross Regional Program",
+  "viewCertificateNew": "View certificate",
 
   "experienceTitle": "My Experience",
   "experienceIntro": "Projects that I worked on during my career at EPAM.",
