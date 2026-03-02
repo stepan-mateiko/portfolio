@@ -88,8 +88,9 @@
   "project5Desc": "Role-based movie management platform with admin capabilities.",
 
   "skillsTitle": "Skills",
-  "skillsBasics": "Basics",
+  "skillsLanguages": "Languages",
   "skillsFrameworks": "Frameworks & Libraries",
+  "skillsBackend": "Backend and API",
   "skillsOther": "Other Technologies",
   "contactTitle": "Contact",
   "contactText": "Get in touch:",

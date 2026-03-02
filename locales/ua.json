@@ -88,8 +88,9 @@
   "project5Desc": "Платформа управління фільмами на основі ролей з адміністративними можливостями.",
 
   "skillsTitle": "Навички",
-  "skillsBasics": "Основи",
+  "skillsLanguages": "Мови",
   "skillsFrameworks": "Фреймворки та бібліотеки",
+  "skillsBackend": "Бекенд та АРІ",
   "skillsOther": "Інші технології",
   "contactTitle": "Контакти",
   "contactText": "Зв’яжіться зі мною:",
