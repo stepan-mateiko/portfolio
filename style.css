@@ -498,6 +498,11 @@ body {
     box-shadow 0.3s ease;
 }
 
+.about-text li {
+  list-style-type: none;
+  text-align: start;
+}
+
 .about-text:hover {
   transform: translateX(6px);
   box-shadow: 0 8px 20px var(--shadow-light);
